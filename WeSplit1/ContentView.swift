@@ -3,7 +3,7 @@
 //  WeSplit1
 //
 //  Created by Furkan Cingöz on 20.11.2023.
-//
+//test
 
 import SwiftUI
 
